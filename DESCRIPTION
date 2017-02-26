@@ -1,0 +1,13 @@
+Package: PGCA
+Type: Package
+Title: Plate Growth Curve Analysis
+Version: 0.0-3
+Depends:
+    ggplot2(>= 0.9.3.1),
+    reshape2(>= 1.2.2)
+Date: 2014-09-24
+Author: Sur
+Maintainer: Sur <sur00mx@gmail.com>
+Description: Plate Growth Curve Analysis
+License: GPL-3
+RoxygenNote: 5.0.1
